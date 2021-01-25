@@ -18,6 +18,8 @@ HMMER - http://hmmer.org/
 
 BLAST - ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/
 
+Pyfasta - https://anaconda.org/bioconda/pyfasta or https://pypi.org/project/pyfasta/
+
 CD-HIT - http://weizhongli-lab.org/cd-hit/
 
 DRM-tools - https://sourceforge.net/projects/drmtools/files/

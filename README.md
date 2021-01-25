@@ -1,6 +1,6 @@
-# Best_Transcript_Set_Updated
+# Best_Transcript_Set_Updated.sh
 
-Method for running Trinity, then processing results with TransDecoder and InterProscan, then reducing the sequences to a "best" set using cd-hit and some scripts.
+Method for processing Trinity results with TransDecoder and InterProscan, then reducing the sequences to a "best" set using cd-hit and some scripts.
 
 Modified from a script wrote by David Mathog available here: https://github.com/trinityrnaseq/trinity_community_codebase/wiki/Trinity-best-transcript-set
 
